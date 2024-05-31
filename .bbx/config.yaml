@@ -1,6 +1,6 @@
 runners:
  ubuntu-runner:
-  image: registry.registry:5000/ubuntu:20.04
+  image: localhost:5000/ubuntu:20.04
 
 jobs:
   say-hello-world:
